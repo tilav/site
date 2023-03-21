@@ -12,11 +12,11 @@ theme: minimal-mistakes-jekyll
 locale                   : "gr-GR"
 title                    : "Ο Προγραμματισμός της Διάδρασης"
 title_separator          : "-"
-name                     : "pibook"
+name                     : "Ranger-Power"
 description              : "Programming Interactivity Greek Book."
-url                      : "https://pibook.epidro.me"
+url                      : "https://ranger-power.netlify.app/"
 baseurl                  : ""
-repository               : "pibook/site"
+repository               : "Ranger-Power/site"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
