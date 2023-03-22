@@ -15,4 +15,5 @@ events:
   - kodak-hifi
   - handspring-buck
   - itv-buck
+  - lifecyclebike
 ---
