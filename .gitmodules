@@ -1,10 +1,10 @@
 [submodule "images"]
 	path = images
-	url = https://github.com/Ranger-Power/images.git
+	url = https://github.com/tilav/images.git
     branch = master
 [submodule "_gallery"]
 	path = _gallery
-	url = https://github.com/Ranger-Power/_gallery.git
+	url = https://github.com/tilav/_gallery.git
 	branch = master
 [submodule "_includes/extras"]
 	path = _includes/extras
